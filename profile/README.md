@@ -21,7 +21,7 @@ In addition to gameplay, ShotPlane integrates payment and token transfer feature
 - **📱 Telegram Mini App:** The primary platform for deploying the game.
 - **💻 JavaScript/TypeScript:** The main programming languages used for the game.
 - **💼 TON Space and TON Wallet:** Solutions for payments and token management.
-- **📝 Smart Contracts:** Written in Solidity to handle transactions and token transfers.
+- **📝 Smart Contracts:** Written in Tact to handle transactions and token transfers.
 
 ## ⚙️ How It Works
 
@@ -38,9 +38,16 @@ Smart contracts in ShotPlane ensure that payment transactions and token transfer
 
 We welcome contributions from the community. If you have ideas or want to report bugs, please open an issue or submit a pull request on GitHub.
 
-## 📧 Contact
+## 📱 Contact
 
-If you have any questions, please contact us at yourname@example.com.
+For any questions, please contact us through our Telegram channel: [ShotPlane Channel](https://t.me/shotplane).
+
+## 🌐 Links
+
+- **Website:** [shotplane.org](https://shotplane.org/)
+- **Telegram Bot:** [ShotPlaneGameBot](https://t.me/shotplane_bot)
+- **Telegram Channel:** [ShotPlane Channel](https://t.me/shotplane)
+- **X (formerly Twitter):** [Shotplaneorg](https://x.com/Shotplaneorg)
 
 ## 📄 License
 
