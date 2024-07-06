@@ -1,6 +1,6 @@
 # ✈️ ShotPlane Game
 
-ShotPlane is a 2D airplane shooting game that runs on the Telegram Mini App platform. It integrates payments via TON Space and TON Wallet, using smart contracts for secure transactions and token transfers.
+ShotPlane is a 2D airplane shooting game that runs on the Telegram Mini App platform. 
 
 ## 📖 Introduction
 
