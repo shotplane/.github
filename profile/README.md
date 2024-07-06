@@ -24,20 +24,26 @@ Play to Earn: To retain players after airdrop events, we have designed the play-
 - **📱 **Front-end:**
 Language: HTML, CSS, JavaScript
 Framework: React.js to build interactive and responsive user interfaces.
+
 - **💻 Game:**
 Language: C#
 Framework: Unity to build game, interact API
+
 - **📱 **Back-end:**
 Language: Node.js
 Framework: Express.js for API development and server request processing.
 Database: MongoDB to manage player and game data.
+
 **🚀Blockchain:**
 Platform: TON & Polygon to issue and manage tokens, conduct transactions and use smart contracts.
+
 **💼DevOps:**
 Containerization: Docker to create consistent development environments and easy deployment.
 CI/CD: Jenkins or GitHub Actions to automate continuous integration and deployment processes.
+
 **Security:**
 Security Testing: Use tools like OWASP ZAP or Nessus to test and ensure system security.
+
 **Telegram Integration:**
 Telegram Bot API for direct integration with Telegram mini app, providing a seamless user experience.
 
