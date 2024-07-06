@@ -6,13 +6,16 @@ ShotPlane is a 2D airplane shooting game that runs on the Telegram Mini App plat
 
 ShotPlane is a classic airplane shooting game developed for the Telegram Mini App. Players control an airplane to shoot down enemies and score points. The game offers an engaging experience with simple yet captivating graphics.
 
-In addition to gameplay, ShotPlane integrates payment and token transfer features through TON Wallet and TON Space. Players can purchase in-game items or exchange tokens securely and transparently thanks to smart contracts.
+Shotplane is designed with three core features:
+
+Play to Free: Users can enjoy the game without any initial investment, lowering the entry barrier and attracting a wider audience. We create more attractive elements for gameplay so that players feel comfortable and entertained when participating in the game.
+Play to Airdrop: Players are encouraged to join ShotPlane to have the chance to receive token airdrops, adding an extra layer of excitement and promoting active participation.
+Play to Earn: To retain players after airdrop events, we have designed the play-to-earn feature, rewarding regular players. In-game rewards can be converted into real-world value, providing financial incentives and fostering long-term engagement with the project.
 
 ## 🔑 Key Features
 
 - **🎮 Airplane Control:** Players can maneuver their airplane to shoot down enemies.
 - **🏆 Scoring System:** Score points and compete with friends through the leaderboard.
-- **💳 Payments via TON Wallet:** Players can use TON Wallet to purchase in-game items.
 - **🔄 Token Transfer:** Manage token transfers between players using smart contracts.
 - **🔒 Security:** All transactions are executed via smart contracts, ensuring transparency and security.
 
@@ -20,19 +23,19 @@ In addition to gameplay, ShotPlane integrates payment and token transfer feature
 
 - **📱 Telegram Mini App:** The primary platform for deploying the game.
 - **💻 JavaScript/TypeScript:** The main programming languages used for the game.
-- **💼 TON Space and TON Wallet:** Solutions for payments and token management.
+- **💼 Telegram Star:** Solutions for payments and token management.
 - **📝 Smart Contracts:** Written in Tact to handle transactions and token transfers.
 
 ## ⚙️ How It Works
 
 1. **🚀 Start Playing:** Players open Telegram and search for the bot `@shotplane_bot` or click [here](https://t.me/shotplane_bot) to start playing.
 2. **🎮 Controls:** Use on-screen controls to move the airplane and shoot down enemies.
-3. **💸 Payments:** Use TON Wallet to purchase items or upgrades within the game.
+3. **💸 Payments:** Telegram Star
 4. **🔄 Token Transfers:** Players can transfer tokens to each other through smart contracts.
 
 ## 📝 Smart Contracts
 
-Smart contracts in ShotPlane ensure that payment transactions and token transfers are conducted securely and transparently. These contracts are deployed on the TON network and are thoroughly tested for security.
+Smart contracts in ShotPlane ensure that payment transactions and token transfers are conducted securely and transparently. These contracts are deployed on the TON network and Polygon network are thoroughly tested for security.
 
 ## 🤝 Contributions
 
