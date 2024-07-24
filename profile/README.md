@@ -54,10 +54,6 @@ Telegram Bot API for direct integration with Telegram mini app, providing a seam
 3. **💸 Payments:** Telegram Star
 4. **🔄 Token Transfers:** Players can transfer tokens to each other through smart contracts.
 
-## 📝 Smart Contracts
-
-Smart contracts in ShotPlane ensure that payment transactions and token transfers are conducted securely and transparently. These contracts are deployed on the TON network and Polygon network are thoroughly tested for security.
-
 ## 🤝 Contributions
 
 We welcome contributions from the community. If you have ideas or want to report bugs, please open an issue or submit a pull request on GitHub.
